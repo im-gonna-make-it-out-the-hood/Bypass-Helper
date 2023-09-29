@@ -79,7 +79,7 @@ function adjustForAlpha(Af, Cc, Cb, Cm) {
   }
 }
 
-const token = 'MTExMTgyMTAwMTA4OTYxODA1MA.GKPLGm.x_AVnidd5Ze0fjh4Hvw8nsnsiHc4LQC9D-cb3U';
+const token = '';
 
 const client = new Client({ intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES] });
 
